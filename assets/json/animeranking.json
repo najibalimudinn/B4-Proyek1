@@ -1,0 +1,702 @@
+[
+      {
+            "No": "1",
+            "Judul": "One Piece",
+            "Tahun": "Releasing",
+            "Rating": "9.06/10",
+            "Poster": "https://u.livechart.me/anime/321/poster_image/b121b16f4061e35e27b6d758b2e9503a.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "2",
+            "Judul": "Koe no Katachi",
+            "Tahun": "2016",
+            "Rating": "9.06/10",
+            "Poster": "https://u.livechart.me/anime/1296/poster_image/dd617ef095a2a52d2907640f09d12d57.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "3",
+            "Judul": "Shingeki no Kyojin Season 3 Part 2",
+            "Tahun": "2019",
+            "Rating": "9.02/10",
+            "Poster": "https://u.livechart.me/anime/3558/poster_image/c29afaa349001436c56feac1d18b3530.png?style=small&format=jpg"
+      },
+      {
+            "No": "4",
+            "Judul": "Fullmetal Alchemist: Brotherhood",
+            "Tahun": "2009",
+            "Rating": "9.02/10",
+            "Poster": "https://u.livechart.me/anime/3409/poster_image/6a0fd433a6a2da7f0310ae626835b979.webp?style=small&format=jpg"
+      },
+      {
+            "No": "5",
+            "Judul": "Steins;Gate",
+            "Tahun": "2011",
+            "Rating": "9.02/10",
+            "Poster": "https://u.livechart.me/anime/1554/poster_image/721563bd590b779bed8ed69e8eea0511.png?style=small&format=jpg"
+      },
+      {
+            "No": "6",
+            "Judul": "Kimi no Na wa.",
+            "Tahun": "2016",
+            "Rating": "8.99/10",
+            "Poster": "https://u.livechart.me/anime/1956/poster_image/366fb971db2eec5dc00122da338ddfc1.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "7",
+            "Judul": "Shingeki no Kyojin: The Final Season",
+            "Tahun": "2020",
+            "Rating": "8.96/10",
+            "Poster": "https://u.livechart.me/anime/9491/poster_image/71a31556e1a91348654ca39b1612c763.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "8",
+            "Judul": "Hunter x Hunter (2011)",
+            "Tahun": "2011",
+            "Rating": "8.93/10",
+            "Poster": "https://u.livechart.me/anime/317/poster_image/abe76d8ba5a87134bf878bc75c1d6967.png?style=small&format=jpg"
+      },
+      {
+            "No": "9",
+            "Judul": "Kimetsu no Yaiba: Yuukaku-hen",
+            "Tahun": "2021",
+            "Rating": "8.93/10",
+            "Poster": "https://u.livechart.me/anime/10420/poster_image/d10b4ca2522c54a4bd4fa82b720528e9.webp?style=small&format=jpg"
+      },
+      {
+            "No": "10",
+            "Judul": "Kimetsu no Yaiba",
+            "Tahun": "2019",
+            "Rating": "8.91/10",
+            "Poster": "https://u.livechart.me/anime/3311/poster_image/9385a8872ca8d0b00b32a31b2d189e55.webp?style=small&format=jpg"
+      },
+      {
+            "No": "11",
+            "Judul": "Kaguya-sama wa Kokurasetai -Ultra Romantic-",
+            "Tahun": "2022",
+            "Rating": "8.87/10",
+            "Poster": "https://u.livechart.me/anime/10191/poster_image/00986133f888880b4ce24881b63e6de9.webp?style=small&format=jpg"
+      },
+      {
+            "No": "12",
+            "Judul": "JUJUTSU KAISEN",
+            "Tahun": "2020",
+            "Rating": "8.85/10",
+            "Poster": "https://u.livechart.me/anime/9680/poster_image/28f487fe3996b4e4cc119edccd9d71da.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "13",
+            "Judul": "Mob Psycho 100 II",
+            "Tahun": "2019",
+            "Rating": "8.84/10",
+            "Poster": "https://u.livechart.me/anime/3163/poster_image/e9aeefbbc4f16e75b641c2862566ad55.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "14",
+            "Judul": "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Cour",
+            "Tahun": "2021",
+            "Rating": "8.82/10",
+            "Poster": "https://u.livechart.me/anime/10297/poster_image/85ba7e3a92fd25d640904248daf4e514.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "15",
+            "Judul": "Code Geass: Hangyaku no Lelouch R2",
+            "Tahun": "2008",
+            "Rating": "8.79/10",
+            "Poster": "https://u.livechart.me/anime/3584/poster_image/565576a295c95cf8932902745e35957a.png?style=small&format=jpg"
+      },
+      {
+            "No": "16",
+            "Judul": "Violet Evergarden",
+            "Tahun": "2018",
+            "Rating": "8.78/10",
+            "Poster": "https://u.livechart.me/anime/2197/poster_image/b2d5f918ca3a8912630d40afbc962e23.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "17",
+            "Judul": "SPY x FAMILY",
+            "Tahun": "2022",
+            "Rating": "8.78/10",
+            "Poster": "https://u.livechart.me/anime/10456/poster_image/cdeaf17feb183f5d8ea30d23dce135a3.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "18",
+            "Judul": "VINLAND SAGA",
+            "Tahun": "2019",
+            "Rating": "8.77/10",
+            "Poster": "https://u.livechart.me/anime/3169/poster_image/32e38a9ae36edb9152a007e124c9d41a.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "19",
+            "Judul": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen",
+            "Tahun": "2020",
+            "Rating": "8.77/10",
+            "Poster": "https://u.livechart.me/anime/9649/poster_image/0ef760cc224d5294ea0f8d1083bd3fca.webp?style=small&format=jpg"
+      },
+      {
+            "No": "20",
+            "Judul": "BLEACH: Sennen Kessen-hen",
+            "Tahun": "2022",
+            "Rating": "8.77/10",
+            "Poster": "https://u.livechart.me/anime/9844/poster_image/c02c4a5726581716b39b2ee48a088206.webp?style=small&format=jpg"
+      },
+      {
+            "No": "21",
+            "Judul": "Yakusoku no Neverland",
+            "Tahun": "2019",
+            "Rating": "8.74/10",
+            "Poster": "https://u.livechart.me/anime/3226/poster_image/a5fb7cfa3dbb4d1e19fe0440da5a26f7.webp?style=small&format=jpg"
+      },
+      {
+            "No": "22",
+            "Judul": "Clannad: After Story",
+            "Tahun": "2008",
+            "Rating": "8.74/10",
+            "Poster": "https://u.livechart.me/anime/3588/poster_image/9ecea7d8d4334fb13392a17d3b723fbb.png?style=small&format=jpg"
+      },
+      {
+            "No": "23",
+            "Judul": "Shingeki no Kyojin: The Final Season Part 2",
+            "Tahun": "2022",
+            "Rating": "8.73/10",
+            "Poster": "https://u.livechart.me/anime/10487/poster_image/b821bbaf0467e069878e8b9fd234185c.webp?style=small&format=jpg"
+      },
+      {
+            "No": "24",
+            "Judul": "86 EIGHTY-SIX 2nd Cour",
+            "Tahun": "2021",
+            "Rating": "8.72/10",
+            "Poster": "https://u.livechart.me/anime/10492/poster_image/96370c3835ce1555c80c635d6625ff53.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "25",
+            "Judul": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+            "Tahun": "2020",
+            "Rating": "8.72/10",
+            "Poster": "https://u.livechart.me/anime/9614/poster_image/152246920a3678da3d44f020c793465c.png?style=small&format=jpg"
+      },
+      {
+            "No": "26",
+            "Judul": "HAIKYU!!: Karasuno Koukou vs Shiratorizawa Gakuen Koukou",
+            "Tahun": "2016",
+            "Rating": "8.71/10",
+            "Poster": "https://u.livechart.me/anime/2076/poster_image/c6d634f0e57078203e4c13224db6ed94.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "27",
+            "Judul": "Tensei Shitara Slime Datta Ken 2nd Season",
+            "Tahun": "2021",
+            "Rating": "8.71/10",
+            "Poster": "https://u.livechart.me/anime/9364/poster_image/33d99dfc653190872a55234f9e76b327.webp?style=small&format=jpg"
+      },
+      {
+            "No": "28",
+            "Judul": "MADE IN ABYSS",
+            "Tahun": "2017",
+            "Rating": "8.70/10",
+            "Poster": "https://u.livechart.me/anime/2483/poster_image/51b88d4a3c21e5b53e40360df409a4fd.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "29",
+            "Judul": "Kage no Jitsuryokusha ni Naritakute!",
+            "Tahun": "2022",
+            "Rating": "8.69/10",
+            "Poster": "https://u.livechart.me/anime/10432/poster_image/b22d48c7916749bfbbdaba4785da3c85.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "30",
+            "Judul": "Shigatsu wa Kimi no Uso",
+            "Tahun": "2014",
+            "Rating": "8.69/10",
+            "Poster": "https://u.livechart.me/anime/479/poster_image/e57f9d057e41d07225d6cf71a0c3f9d0.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "31",
+            "Judul": "One Punch Man",
+            "Tahun": "2015",
+            "Rating": "8.69/10",
+            "Poster": "https://u.livechart.me/anime/1431/poster_image/784a83c62b5b549e86eed8922e206280.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "32",
+            "Judul": "Shingeki no Kyojin Season 3",
+            "Tahun": "2018",
+            "Rating": "8.69/10",
+            "Poster": "https://u.livechart.me/anime/2737/poster_image/f2c027429180b423fdd3cbb34d461478.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "33",
+            "Judul": "Tensei Shitara Slime Datta Ken",
+            "Tahun": "2018",
+            "Rating": "8.68/10",
+            "Poster": "https://u.livechart.me/anime/3132/poster_image/891e149e1bb83d14a1a629fd53454da0.webp?style=small&format=jpg"
+      },
+      {
+            "No": "34",
+            "Judul": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "Tahun": "2021",
+            "Rating": "8.68/10",
+            "Poster": "https://u.livechart.me/anime/9357/poster_image/13d0b461995b7a931ad9e7af5f1f3dbc.png?style=small&format=jpg"
+      },
+      {
+            "No": "35",
+            "Judul": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "Tahun": "2019",
+            "Rating": "8.67/10",
+            "Poster": "https://u.livechart.me/anime/3513/poster_image/df70564074bee08c6587a645d266c20d.png?style=small&format=jpg"
+      },
+      {
+            "No": "36",
+            "Judul": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
+            "Tahun": "2021",
+            "Rating": "8.66/10",
+            "Poster": "https://u.livechart.me/anime/9848/poster_image/6dbbd4b29cc5e4cc0f7bdc884ac11d6b.webp?style=small&format=jpg"
+      },
+      {
+            "No": "37",
+            "Judul": "Violet Evergarden the Movie",
+            "Tahun": "2020",
+            "Rating": "8.66/10",
+            "Poster": "https://u.livechart.me/anime/3371/poster_image/7123e0d31aa14807395613b0a2895ed5.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "38",
+            "Judul": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+            "Tahun": "2018",
+            "Rating": "8.66/10",
+            "Poster": "https://u.livechart.me/anime/3147/poster_image/a6a36933ba1bc7e333478ed1b095119e.png?style=small&format=jpg"
+      },
+      {
+            "No": "39",
+            "Judul": "Fruits Basket: The Final",
+            "Tahun": "2021",
+            "Rating": "8.66/10",
+            "Poster": "https://u.livechart.me/anime/10162/poster_image/88deda037f8964a9326fac1ea1e5ebd9.png?style=small&format=jpg"
+      },
+      {
+            "No": "40",
+            "Judul": "Death Note",
+            "Tahun": "2006",
+            "Rating": "8.65/10",
+            "Poster": "https://u.livechart.me/anime/3437/poster_image/ea9acd1ccea844fd9c4debde5e8e631e.png?style=small&format=jpg"
+      },
+      {
+            "No": "41",
+            "Judul": "Chainsaw Man",
+            "Tahun": "2022",
+            "Rating": "8.64/10",
+            "Poster": "https://u.livechart.me/anime/10257/poster_image/bf00a08ab7a0ce0d8f8320042bf948c5.webp?style=small&format=jpg"
+      },
+      {
+            "No": "42",
+            "Judul": "Kimi no Suizou wo Tabetai",
+            "Tahun": "2018",
+            "Rating": "8.63/10",
+            "Poster": "https://u.livechart.me/anime/2829/poster_image/5ea276c2a7b1557f27d08ebea83e2dfd.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "43",
+            "Judul": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+            "Tahun": "2018",
+            "Rating": "8.63/10",
+            "Poster": "https://u.livechart.me/anime/3345/poster_image/afce8f3424ea128c99129fb237bb6efc.png?style=small&format=jpg"
+      },
+      {
+            "No": "44",
+            "Judul": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+            "Tahun": "2021",
+            "Rating": "8.63/10",
+            "Poster": "https://u.livechart.me/anime/10009/poster_image/e558bd8191c0f71c6270e3e872bfe90a.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "45",
+            "Judul": "3-gatsu no Lion 2nd Season",
+            "Tahun": "2017",
+            "Rating": "8.62/10",
+            "Poster": "https://u.livechart.me/anime/2592/poster_image/ce9f3ced5d5aa0775f6f6f7c2ae0abad.webp?style=small&format=jpg"
+      },
+      {
+            "No": "46",
+            "Judul": "Code Geass: Hangyaku no Lelouch",
+            "Tahun": "2006",
+            "Rating": "8.62/10",
+            "Poster": "https://u.livechart.me/anime/3580/poster_image/9ddcdded574b07fa88a0d715b71d7c38.webp?style=small&format=jpg"
+      },
+      {
+            "No": "47",
+            "Judul": "BOCCHI THE ROCK!",
+            "Tahun": "2022",
+            "Rating": "8.62/10",
+            "Poster": "https://u.livechart.me/anime/10424/poster_image/505b08d622b214e39f4744f65794a124.webp?style=small&format=jpg"
+      },
+      {
+            "No": "48",
+            "Judul": "Tate no Yuusha no Nariagari",
+            "Tahun": "2019",
+            "Rating": "8.61/10",
+            "Poster": "https://u.livechart.me/anime/2757/poster_image/792ca3aefebef06fbad3d47339a43904.webp?style=small&format=jpg"
+      },
+      {
+            "No": "49",
+            "Judul": "Ousama Ranking",
+            "Tahun": "2021",
+            "Rating": "8.61/10",
+            "Poster": "https://u.livechart.me/anime/9706/poster_image/063b464bf38df115755c7b02c3bf09f4.webp?style=small&format=jpg"
+      },
+      {
+            "No": "50",
+            "Judul": "Dr. STONE",
+            "Tahun": "2019",
+            "Rating": "8.61/10",
+            "Poster": "https://u.livechart.me/anime/8349/poster_image/def6f7be1f244f9744a6fd65ea54e142.png?style=small&format=jpg"
+      },
+      {
+            "No": "51",
+            "Judul": "Kizumonogatari III: Reiketsu-hen",
+            "Tahun": "2017",
+            "Rating": "8.60/10",
+            "Poster": "https://u.livechart.me/anime/1855/poster_image/a6135cf35976e7ea1f65fb76347e7bcc.png?style=small&format=jpg"
+      },
+      {
+            "No": "52",
+            "Judul": "Sono Bisque Doll wa Koi wo Suru",
+            "Tahun": "2022",
+            "Rating": "8.59/10",
+            "Poster": "https://u.livechart.me/anime/10531/poster_image/c416608257ed698c64ed341424469dfd.webp?style=small&format=jpg"
+      },
+      {
+            "No": "53",
+            "Judul": "HAIKYU!! TO THE TOP 2nd Cour",
+            "Tahun": "2020",
+            "Rating": "8.59/10",
+            "Poster": "https://u.livechart.me/anime/9693/poster_image/9fc6e8ee6242a62a6dca665fdf0821e2.png?style=small&format=jpg"
+      },
+      {
+            "No": "54",
+            "Judul": "HAIKYU!! Second Season",
+            "Tahun": "2015",
+            "Rating": "8.59/10",
+            "Poster": "https://u.livechart.me/anime/1330/poster_image/b74dc5dc2dfe9d98a951469c7fbe0546.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "55",
+            "Judul": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+            "Tahun": "2020",
+            "Rating": "8.58/10",
+            "Poster": "https://u.livechart.me/anime/9387/poster_image/d30e2340c85c78a467e60ff4173994c2.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "56",
+            "Judul": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+            "Tahun": "2019",
+            "Rating": "8.57/10",
+            "Poster": "https://u.livechart.me/anime/3315/poster_image/0e4ec43fbc6da89fa9a58456ca86fada.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "57",
+            "Judul": "Monogatari Series: Second Season",
+            "Tahun": "2013",
+            "Rating": "8.57/10",
+            "Poster": "https://u.livechart.me/anime/25/poster_image/80d2197cd5282b2b80f13a4e154fef48.webp?style=small&format=jpg"
+      },
+      {
+            "No": "58",
+            "Judul": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
+            "Tahun": "2019",
+            "Rating": "8.56/10",
+            "Poster": "https://u.livechart.me/anime/2806/poster_image/3bd105b842c1fd9e9df099d60b583de3.png?style=small&format=jpg"
+      },
+      {
+            "No": "59",
+            "Judul": "Shingeki no Kyojin",
+            "Tahun": "2013",
+            "Rating": "8.55/10",
+            "Poster": "https://u.livechart.me/anime/38/poster_image/8d439eec0d96eed77ed96c9a8dcdcde8.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "60",
+            "Judul": "Steins;Gate 0",
+            "Tahun": "2018",
+            "Rating": "8.54/10",
+            "Poster": "https://u.livechart.me/anime/1489/poster_image/1a239c562e5ab2681ecc7a97981d4941.png?style=small&format=jpg"
+      },
+      {
+            "No": "61",
+            "Judul": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+            "Tahun": "2020",
+            "Rating": "8.54/10",
+            "Poster": "https://u.livechart.me/anime/9363/poster_image/352193f1b2c5b220917ee5cc04dd25c3.png?style=small&format=jpg"
+      },
+      {
+            "No": "62",
+            "Judul": "Owarimonogatari (2017)",
+            "Tahun": "2017",
+            "Rating": "8.54/10",
+            "Poster": "https://u.livechart.me/anime/2133/poster_image/51b471ce0500317d750e5cf4a5927f11.png?style=small&format=jpg"
+      },
+      {
+            "No": "63",
+            "Judul": "Gintama\u00b0",
+            "Tahun": "2015",
+            "Rating": "8.53/10",
+            "Poster": "https://u.livechart.me/anime/1340/poster_image/c7c0ef3d0159a4d794992d9f9e692698.png?style=small&format=jpg"
+      },
+      {
+            "No": "64",
+            "Judul": "Summer Time Render",
+            "Tahun": "2022",
+            "Rating": "8.52/10",
+            "Poster": "https://u.livechart.me/anime/10388/poster_image/54a55a60bf65a5d32f92f63367747ab3.webp?style=small&format=jpg"
+      },
+      {
+            "No": "65",
+            "Judul": "Tenki no Ko",
+            "Tahun": "2019",
+            "Rating": "8.51/10",
+            "Poster": "https://u.livechart.me/anime/8671/poster_image/2cc38a7930db63f999c1b62d36ab46ca.webp?style=small&format=jpg"
+      },
+      {
+            "No": "66",
+            "Judul": "MADE IN ABYSS: Retsujitsu no Ougonkyo",
+            "Tahun": "2022",
+            "Rating": "8.51/10",
+            "Poster": "https://u.livechart.me/anime/9772/poster_image/dc828e39be43782b6f00ce2eddf1bc64.webp?style=small&format=jpg"
+      },
+      {
+            "No": "67",
+            "Judul": "Fumetsu no Anata e",
+            "Tahun": "2021",
+            "Rating": "8.51/10",
+            "Poster": "https://u.livechart.me/anime/9762/poster_image/d524b732b143a30f073f61b5be993c97.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "68",
+            "Judul": "Dororo",
+            "Tahun": "2019",
+            "Rating": "8.50/10",
+            "Poster": "https://u.livechart.me/anime/3168/poster_image/46657dbe0eafd0a666b84d9540055e7a.webp?style=small&format=jpg"
+      },
+      {
+            "No": "69",
+            "Judul": "Sen to Chihiro no Kamikakushi",
+            "Tahun": "2001",
+            "Rating": "8.50/10",
+            "Poster": "https://u.livechart.me/anime/3084/poster_image/154c8116c9f5b38dbd5be15da70c26d1.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "70",
+            "Judul": "Grand Blue",
+            "Tahun": "2018",
+            "Rating": "8.50/10",
+            "Poster": "https://u.livechart.me/anime/3046/poster_image/5885451476329bbd50677f69d297867b.png?style=small&format=jpg"
+      },
+      {
+            "No": "71",
+            "Judul": "Boku no Hero Academia 3rd Season",
+            "Tahun": "2018",
+            "Rating": "8.50/10",
+            "Poster": "https://u.livechart.me/anime/2899/poster_image/3253765e0a721a119c8664dfb35a5e32.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "72",
+            "Judul": "Shingeki no Kyojin Season 2",
+            "Tahun": "2017",
+            "Rating": "8.49/10",
+            "Poster": "https://u.livechart.me/anime/754/poster_image/24534866a78807003cbfb48a68647e09.webp?style=small&format=jpg"
+      },
+      {
+            "No": "73",
+            "Judul": "Gintama'",
+            "Tahun": "2011",
+            "Rating": "8.49/10",
+            "Poster": "https://u.livechart.me/anime/1523/poster_image/0b2739af63ab443b1717dbae106e1a1e.png?style=small&format=jpg"
+      },
+      {
+            "No": "74",
+            "Judul": "Ansatsu Kyoushitsu (TV) 2nd Season",
+            "Tahun": "2016",
+            "Rating": "8.49/10",
+            "Poster": "https://u.livechart.me/anime/1561/poster_image/6f770fb77b7aec6b07cfa3d21517336b.webp?style=small&format=jpg"
+      },
+      {
+            "No": "75",
+            "Judul": "Re:Zero kara Hajimeru Isekai Seikatsu: Shin Henshuu-ban",
+            "Tahun": "2020",
+            "Rating": "8.49/10",
+            "Poster": "https://u.livechart.me/anime/9710/poster_image/d7e7441b20f1b310d3a9acdf355927b5.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "76",
+            "Judul": "HAIKYU!!",
+            "Tahun": "2014",
+            "Rating": "8.49/10",
+            "Poster": "https://u.livechart.me/anime/251/poster_image/9db023f75218fdf036be07e5adeb2ed7.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "77",
+            "Judul": "HAIKYU!! TO THE TOP",
+            "Tahun": "2020",
+            "Rating": "8.48/10",
+            "Poster": "https://u.livechart.me/anime/8682/poster_image/970ffe8e97eed9fc6289e58570e7560f.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "78",
+            "Judul": "Horimiya",
+            "Tahun": "2021",
+            "Rating": "8.48/10",
+            "Poster": "https://u.livechart.me/anime/10156/poster_image/db063358c3b06174c8a0b0e7863abff5.webp?style=small&format=jpg"
+      },
+      {
+            "No": "79",
+            "Judul": "MADE IN ABYSS: Fukaki Tamashii no Reimei",
+            "Tahun": "2020",
+            "Rating": "8.47/10",
+            "Poster": "https://u.livechart.me/anime/2993/poster_image/bb50cd8e0a498c04774e38f818d5f858.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "80",
+            "Judul": "Mob Psycho 100",
+            "Tahun": "2016",
+            "Rating": "8.47/10",
+            "Poster": "https://u.livechart.me/anime/1936/poster_image/6b04bd5db56217a951c2c5d9f4c976ac.png?style=small&format=jpg"
+      },
+      {
+            "No": "81",
+            "Judul": "Vivy -Fluorite Eye's Song-",
+            "Tahun": "2021",
+            "Rating": "8.47/10",
+            "Poster": "https://u.livechart.me/anime/10348/poster_image/b2ca437c6e9ade5bfa355065669bacfb.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "82",
+            "Judul": "Fate/Zero 2nd Season",
+            "Tahun": "2012",
+            "Rating": "8.47/10",
+            "Poster": "https://u.livechart.me/anime/1100/poster_image/27801d1cc1f1a837f5537be671bc980e.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "83",
+            "Judul": "Mob Psycho 100 III",
+            "Tahun": "2022",
+            "Rating": "8.47/10",
+            "Poster": "https://u.livechart.me/anime/10841/poster_image/c18c5865ddfbebcddecbee31b1547771.webp?style=small&format=jpg"
+      },
+      {
+            "No": "84",
+            "Judul": "SPY x FAMILY Cour 2",
+            "Tahun": "2022",
+            "Rating": "8.45/10",
+            "Poster": "https://u.livechart.me/anime/10954/poster_image/0af3d9f8a83d405f254df5bd73a6f587.webp?style=small&format=jpg"
+      },
+      {
+            "No": "85",
+            "Judul": "Sora Yori mo Tooi Basho",
+            "Tahun": "2018",
+            "Rating": "8.45/10",
+            "Poster": "https://u.livechart.me/anime/2772/poster_image/23c907de2699129f99dad6c315315f25.png?style=small&format=jpg"
+      },
+      {
+            "No": "86",
+            "Judul": "Re:Zero kara Hajimeru Isekai Seikatsu",
+            "Tahun": "2016",
+            "Rating": "8.45/10",
+            "Poster": "https://u.livechart.me/anime/1723/poster_image/a8ed1d3ff2b2485f68d92bbe805f1eef.png?style=small&format=jpg"
+      },
+      {
+            "No": "87",
+            "Judul": "Kizumonogatari II: Nekketsu-hen",
+            "Tahun": "2016",
+            "Rating": "8.45/10",
+            "Poster": "https://u.livechart.me/anime/1854/poster_image/ce82931414b33b746a686b6749a759f8.png?style=small&format=jpg"
+      },
+      {
+            "No": "88",
+            "Judul": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+            "Tahun": "2021",
+            "Rating": "8.44/10",
+            "Poster": "https://u.livechart.me/anime/10816/poster_image/9467d9d2ab9eaf490b47973f8f5e542a.png?style=small&format=jpg"
+      },
+      {
+            "No": "89",
+            "Judul": "JUJUTSU KAISEN 0",
+            "Tahun": "2021",
+            "Rating": "8.44/10",
+            "Poster": "https://u.livechart.me/anime/10491/poster_image/00e07e35c1f80730b937fb2b5de74da3.webp?style=small&format=jpg"
+      },
+      {
+            "No": "90",
+            "Judul": "Black Clover",
+            "Tahun": "2017",
+            "Rating": "8.44/10",
+            "Poster": "https://u.livechart.me/anime/2478/poster_image/f4518e517e6a56b52973852f67635e38.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "91",
+            "Judul": "Cowboy Bebop",
+            "Tahun": "1998",
+            "Rating": "8.44/10",
+            "Poster": "https://u.livechart.me/anime/3418/poster_image/d4bf2f9a15e904838b829ee7e90584a2.png?style=small&format=jpg"
+      },
+      {
+            "No": "92",
+            "Judul": "Gintama",
+            "Tahun": "2006",
+            "Rating": "8.43/10",
+            "Poster": "https://u.livechart.me/anime/3591/poster_image/46c0aae84286967678cd0f417c97a5af.png?style=small&format=jpg"
+      },
+      {
+            "No": "93",
+            "Judul": "ODDTAXI",
+            "Tahun": "2021",
+            "Rating": "8.43/10",
+            "Poster": "https://u.livechart.me/anime/10349/poster_image/81826db46432dde21838918a0adf9adc.webp?style=small&format=jpg"
+      },
+      {
+            "No": "94",
+            "Judul": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+            "Tahun": "2017",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/2077/poster_image/975cb0a4837fa0793636046570f958b2.png?style=small&format=jpg"
+      },
+      {
+            "No": "95",
+            "Judul": "Cyberpunk: Edgerunners",
+            "Tahun": "2022",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/10042/poster_image/1146b2cf12ad431ab05abfc7b37b7024.webp?style=small&format=jpg"
+      },
+      {
+            "No": "96",
+            "Judul": "Kobayashi-san Chi no Maid Dragon S",
+            "Tahun": "2021",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/9222/poster_image/047f60964e75eb5688d936850ae91155.webp?style=small&format=jpg"
+      },
+      {
+            "No": "97",
+            "Judul": "Overlord IV",
+            "Tahun": "2022",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/10571/poster_image/8ffffbfa86ca94aa7f7cbe76bdadfdda.png?style=small&format=jpg"
+      },
+      {
+            "No": "98",
+            "Judul": "Tengen Toppa Gurren Lagann",
+            "Tahun": "2007",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/3583/poster_image/b098632dca5f8d4c8ce96db7286a913c.webp?style=small&format=jpg"
+      },
+      {
+            "No": "99",
+            "Judul": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+            "Tahun": "2016",
+            "Rating": "8.42/10",
+            "Poster": "https://u.livechart.me/anime/1891/poster_image/e38eb9b983c7530710ebd7e99a74fa4b.jpg?style=small&format=jpg"
+      },
+      {
+            "No": "100",
+            "Judul": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+            "Tahun": "2018",
+            "Rating": "8.41/10",
+            "Poster": "https://u.livechart.me/anime/2777/poster_image/6b1ada42d4da51129638dca1a8f6759f.png?style=small&format=jpg"
+      }
+]
