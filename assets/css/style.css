@@ -769,6 +769,17 @@ section {
   color: #ffb727;
 }
 
+.map {
+  height: 30rem;
+}
+.map iframe {
+  pointer-events: none;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}
+
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1379,3 +1390,4 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
